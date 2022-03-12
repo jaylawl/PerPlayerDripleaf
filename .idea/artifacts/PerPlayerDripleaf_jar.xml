@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PerPlayerDripleaf:jar">
+    <output-path>$PROJECT_DIR$/../__builds</output-path>
+    <root id="archive" name="PerPlayerDripleaf.jar">
+      <element id="module-output" name="PerPlayerDripleaf" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/de/jaylawl/perplayerdripleaf/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
