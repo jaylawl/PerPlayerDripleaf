@@ -3,6 +3,8 @@
 Tiny plugin that makes tilting of big dripleaf blocks client-side.
 There are no configuration files, commands, nor permissions.
 
+Download a compiled version of this plugin here: https://www.spigotmc.org/resources/perplayerdripleaf.100661/
+
 ### What this plugin **can** do:
 
 - Players stepping on big dripleaf blocks is handled "client-side" via package sending.
